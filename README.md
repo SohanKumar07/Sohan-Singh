@@ -1,4 +1,4 @@
 # Sohan-Singh
 This is my portfolio.
 
-Author - Sohan Singh
+Author - Sohan Kumar Singh
