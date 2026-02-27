@@ -9,11 +9,11 @@ const Contact = () => {
         I'm open to internships, collaborations, and new opportunities.
       </p>
       <div className="contact-links">
-        <a href="mailto:sohan@example.com" className="contact-btn">
-          sohan@example.com
+        <a href="mailto:infosohan6@gmail.com" className="contact-btn">
+          infosohan6@gmail.com
         </a>
         <a
-          href="https://github.com/"
+          href="https://github.com/SohanKumar07"
           target="_blank"
           rel="noreferrer"
           className="contact-btn"
@@ -21,7 +21,7 @@ const Contact = () => {
           GitHub
         </a>
         <a
-          href="https://linkedin.com/"
+          href="https://www.linkedin.com/in/sohankumar7/"
           target="_blank"
           rel="noreferrer"
           className="contact-btn"
